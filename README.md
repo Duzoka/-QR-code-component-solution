@@ -28,6 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-DnU_32pJRB
+- Live Site URL: https://qr-code-component-solution-three.vercel.app/
 
 
 ## My process
