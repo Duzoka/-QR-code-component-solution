@@ -36,17 +36,12 @@ body {
     height: 280px;
 }
 
-.card .title {
-    color: hsl(218, 44%, 22%);
-    /* I learn to center a text */
-    
-    /* ------------------- */
-    font-weight: bold;
-}
 
 h1 {
     font-size: 21px;
     text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-weight: bold;
 }
 
 .card .text {
