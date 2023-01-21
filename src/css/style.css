@@ -25,7 +25,7 @@ body {
     padding: 15px;
     width: 300px;
     height: auto;
-    gap: 15px;
+    gap: 10px;
 
 }
 
@@ -38,14 +38,15 @@ body {
 
 .card .title {
     color: hsl(218, 44%, 22%);
-    font-size: 21px;
     /* I learn to center a text */
-    text-align: center;
+    
     /* ------------------- */
     font-weight: bold;
-    
-    
-    
+}
+
+h1 {
+    font-size: 21px;
+    text-align: center;
 }
 
 .card .text {
